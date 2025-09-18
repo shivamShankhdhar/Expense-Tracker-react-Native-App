@@ -2,7 +2,7 @@
 /backend/.env
 
 /mobile/node_modules
-/mobile/.env.local
+/mobile/.env
 /mobile/.vscode
 /mobile/.cursor
 /mobile/.expo
